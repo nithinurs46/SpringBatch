@@ -5,6 +5,7 @@ Spring Batch Sample
 
 1. SpringBatch - 
 This application contains both Tasklet based and chunk based approaches.
+Refer taskletImpl.PNG for tasklet implementation
 Chunk based approach further contains itemReader and itemWriter implementations using JDBC and JPA implementations.
 
 Run the application by providing the Job parameters - 
