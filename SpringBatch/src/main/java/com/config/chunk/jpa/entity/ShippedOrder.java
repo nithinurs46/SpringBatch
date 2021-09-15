@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Entity
-@Table(name = "SHIPPED_ORDER")
+@Table(name = "SHIPPED_ORDER_OUTPUT")
 @Getter
 @Setter
 @NoArgsConstructor
